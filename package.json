@@ -1,0 +1,17 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "reto 1 mongodb",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Andres Castro",
+  "license": "ISC"
+}
